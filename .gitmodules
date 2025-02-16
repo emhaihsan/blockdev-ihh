@@ -1,3 +1,6 @@
 [submodule "hello_manta/lib/forge-std"]
 	path = hello_manta/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "hello_manta/lib/openzeppelin-contracts"]
+	path = hello_manta/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
